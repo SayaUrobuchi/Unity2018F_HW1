@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "hw1",
+"dataUrl": "hw1WebGLbuild.data.unityweb",
+"wasmCodeUrl": "hw1WebGLbuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "hw1WebGLbuild.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
